@@ -1,0 +1,24 @@
+[
+  {
+    "critical": {
+      "identity": {
+        "docker-reference": "ttl.sh/salsa-workshop-yihgppvw"
+      },
+      "image": {
+        "docker-manifest-digest": "sha256:fbd374bdb8e29d7380fadc2936f83af8e3323046d7f7ae792c3b1139d4f7e723"
+      },
+      "type": "cosign container image signature"
+    },
+    "optional": {
+      "Bundle": {
+        "SignedEntryTimestamp": "MEUCIAVHiij4gb6+evlzdVzPo2YTJnTMmNJUBdhhXIgJmOsDAiEAugCS7WRHdQZb7aIbgK7SiM5XfLFeWOjnzopUz5fWzkg=",
+        "Payload": {
+          "body": "eyJhcGlWZXJzaW9uIjoiMC4wLjEiLCJraW5kIjoiaGFzaGVkcmVrb3JkIiwic3BlYyI6eyJkYXRhIjp7Imhhc2giOnsiYWxnb3JpdGhtIjoic2hhMjU2IiwidmFsdWUiOiJiZjViNDQxMzBkNzUxNTNkNTMxNDAyYzM5ODAzNmQ4M2RkZThkNWEyY2JmMTgzNGI2MDlmYjQ1ODZmMTdkYzc2In19LCJzaWduYXR1cmUiOnsiY29udGVudCI6Ik1FVUNJUUNJK1NuMWdFSVNPYkh6NVA1aTZtRlVUdTJmaURSdzJqYjAwT1ZheVdyTWR3SWdaKzJPU1RTaHBSVkVkZkNyWnZhNE4yN3ZIdXc0dC8vVnh0V3R1RDhEZTk4PSIsInB1YmxpY0tleSI6eyJjb250ZW50IjoiTFMwdExTMUNSVWRKVGlCUVZVSk1TVU1nUzBWWkxTMHRMUzBLVFVacmQwVjNXVWhMYjFwSmVtb3dRMEZSV1VsTGIxcEplbW93UkVGUlkwUlJaMEZGU2tRcmNrWjNNRWwwSzB4UU0wZENSVW9yYVZBellrb3lZbEZEUkFwVGNYSktjMFZ3UkZoV1JUQnRSMHg1UkdONVVIVmhaMHBTVlVNeGVEQlJlRXBWTTNaMmNGbDFUSEF4UnpSMGNUbHJRbkI0VkhWa1psTlJQVDBLTFMwdExTMUZUa1FnVUZWQ1RFbERJRXRGV1MwdExTMHRDZz09In19fX0=",
+          "integratedTime": 1693916472,
+          "logIndex": 34569347,
+          "logID": "c0d23d6ad406973f9559f3ba2d1ca01f84147d8ffc5b8445c224f98b9591801d"
+        }
+      }
+    }
+  }
+]
